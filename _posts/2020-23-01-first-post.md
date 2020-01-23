@@ -1,7 +1,4 @@
 layout: post
-title: DEMO
+title: demo
 subtitle: here is subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+bigimg: /img/path.jpg
