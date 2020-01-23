@@ -1,4 +1,7 @@
-layuot: post
-title: Demo Post
-image: https://raw.githubusercontent.com/iuliastremciuc/iuliastremciuc.github.io/master/img/hello_world.jpeg
-
+layout: post
+title: DEMO
+subtitle: here is subtitle
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
