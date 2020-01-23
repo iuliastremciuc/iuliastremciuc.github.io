@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: My First Website
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: My Portfolio
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,7 +21,7 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  My Links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
@@ -38,7 +38,7 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#32a86d"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Iulia Stremciuc
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -87,9 +87,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
