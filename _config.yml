@@ -38,7 +38,7 @@ avatar: "https://raw.githubusercontent.com/iuliastremciuc/iuliastremciuc.github.
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#6732a8"
+navbar-col: "#40223d"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
