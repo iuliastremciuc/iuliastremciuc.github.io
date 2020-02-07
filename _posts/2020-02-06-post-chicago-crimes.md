@@ -32,3 +32,4 @@ Commit property theft, criminal damage, burglary, assault, battery, or steal car
 Also interesting to me is that the number of narcotics arrests was higher than the reported narcotics crimes.
 Of course, after thinking about it this makes sense since people generally don’t call the police to report someone using/selling drugs but police investigate drug dealers and find drugs on people arrested for other crimes.
 
+
