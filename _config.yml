@@ -4,7 +4,7 @@
 title: Iulia Stremciuc
 
 # Short description of your site
-description: My Portfolio
+description: A virtual proof that I'm awesome
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,28 +21,28 @@ description: My Portfolio
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  My Links:
-    #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    #- Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: https://iuliastremciuc.github.io/
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: 
+#avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: 
+# title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#698291"
-navbar-text-col: "#010f14"
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#326e7d"
+link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
@@ -70,7 +70,7 @@ social-network-links:
   rss: true
   email: "someone@example.com"
   facebook: deanattali
-  github: daattali 
+  github: daattali
   twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
@@ -87,13 +87,13 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
+  twitter: true
+  facebook: true
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "iuliastremciuc.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -156,14 +156,14 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Central Standard Time"
-#markdown: kramdown
-#highlighter: rouge
-#permalink: /:year-:month-:day-:title/
-#paginate: 5
+timezone: "America/Vancouver"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
 
-#kramdown:
-  #input: GFM
+kramdown:
+  input: GFM
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -248,7 +248,7 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-#plugins:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
