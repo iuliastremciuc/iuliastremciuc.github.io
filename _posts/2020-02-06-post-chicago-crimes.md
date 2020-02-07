@@ -18,7 +18,7 @@ Chicago is split up into 22 Police Districts and the City of Chicago also provid
 Using these files I was able to map how many crimes are committed per district and display that in an easy to read district map of Chicago.
 
 
-![Chicago Police District Map](https://img/heat_map.png)
+![Chicago Police District Map](https:///img/crime_map.png)
   
   
 As seen in the map, crime is not evenly distributed across the city, but is concentrated in certain areas. Even after living here for 4 years, I confess that I don’t know or have much experience with many of the neighborhoods in Chicago. 
