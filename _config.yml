@@ -32,7 +32,7 @@ avatar: "https://raw.githubusercontent.com/iuliastremciuc/iuliastremciuc.github.
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "https://raw.githubusercontent.com/iuliastremciuc/iuliastremciuc.github.io/master/img/IMG_20190725_162533.jpg"
 
 # --- Background colour/image options --- #
 
@@ -69,10 +69,10 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
+  #facebook: deanattali
+  #github: daattali 
+  #twitter: daattali
+  #reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
