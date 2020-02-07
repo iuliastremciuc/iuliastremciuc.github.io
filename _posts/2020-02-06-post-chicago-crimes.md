@@ -32,7 +32,7 @@ The other interesting thing I found in the data provided, was the number of arre
 I created the below heatmap to show this data visually
 
 
-![Heat Map](/img/heat_map.png)
+![Heat Map](/img/newheat_map.png)
   
   
 What’s interesting is that crimes against property and person seem to be frequent and heavily reported with very little arrests ever made. 
